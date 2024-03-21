@@ -1,0 +1,18 @@
+<html>
+
+<head>
+  <title style=color:red>My Page</title>
+</head>
+
+<body>
+  <div>
+    <h1>Veera<br><a href="http://www.google.com">Babu</a></h1>
+
+    <p style="color:blue">Hello world</p>
+      <hr>
+    <p style="color:red">Hello</p>
+    <!--Hi this is a comment -->
+  </div>
+</body>
+
+</html>
